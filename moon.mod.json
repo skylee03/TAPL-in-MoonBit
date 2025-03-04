@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "deps": {
     "moonbitlang/x": "0.4.20",
-    "moonbitlang/yacc": "0.2.8"
+    "moonbitlang/yacc": "0.2.9"
   },
   "license": "MIT",
   "source": ".",
